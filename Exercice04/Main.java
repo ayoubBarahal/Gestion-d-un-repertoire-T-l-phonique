@@ -6,7 +6,7 @@ public class Main {
 
         Abonne abonne1 = new Abonne("ayoub", "0659521353");
         Abonne abonne2 = new Abonne("adam", "0652457820");
-        Abonne abonne3 = new Abonne("wisal", "0759854632");
+        Abonne abonne3 = new Abonne("abdo", "0759854632");
 
         repertoire.addAbonne(abonne1);
         repertoire.addAbonne(abonne2);
