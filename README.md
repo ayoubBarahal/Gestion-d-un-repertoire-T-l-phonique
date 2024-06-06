@@ -34,4 +34,14 @@ Le projet est divisé en trois classes principales :
 ## Exemple
 
 Voici un exemple d'utilisation de l'application :
-
+Le Numéro de tele du Nom est :0659521353
+Le Nombres des abonnes est : 5
+Abonne Numéro 1 est : ayoub
+Le Répertoire est :
+ayoub: 0659521353
+adam: 0652457820
+abdo: 0759854632
+Le Répertoire Trié est :
+abdo: 0759854632
+adam: 0652457820
+ayoub: 0659521353
